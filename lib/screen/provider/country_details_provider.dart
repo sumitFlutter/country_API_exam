@@ -10,5 +10,6 @@ class CountryDetailProvider with ChangeNotifier{
     List<CountryModel> cList=[];
     cList=await apiHelper.getCountryData();
     countryList=cList;
+    notifyListeners();
   }
 }
