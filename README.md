@@ -1,7 +1,7 @@
 <h1> #Country Encyclopaedia App </h1>
 
 
-An application that created with help of an API call.
+An application that created with help of an API calling.
 
 <h1> Its Features:</h1>
      -> Provider package for State Management<br>
