@@ -1,19 +1,15 @@
-# first_exam_advanced
+#Country Encyclopaedia App
 
-A new Flutter project.
 
-## Getting Started
+An application that created with help of an API call.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1> Its Features:</h1>
+     -> Provider package for State Management<br>
+     -> API helper for An API call using HTTP package<br>
+     -> List of Model class object for getting API response<br>
+     -> Independent and Dependent Country Filter using TabBar Widget<br>
+     -> listview used for showing country list data<br>
+     -> Details Screen for Each Country<br>
 <p>
 
 <img src="https://github.com/sumitFlutter/country_API_exam/assets/153794386/48e75ee1-1c92-4678-a447-a31bca8f60ec"   height="400px"     width="200px"/>
