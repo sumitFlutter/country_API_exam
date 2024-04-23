@@ -1,4 +1,4 @@
-#Country Encyclopaedia App
+<h1> #Country Encyclopaedia App </h1>
 
 
 An application that created with help of an API call.
@@ -9,7 +9,7 @@ An application that created with help of an API call.
      -> List of Model class object for getting API response<br>
      -> Independent and Dependent Country Filter using TabBar Widget<br>
      -> listview used for showing country list data<br>
-     -> Details Screen for Each Country<br>
+     -> Details Screen for Each Country<br><br>
 <p>
 
 <img src="https://github.com/sumitFlutter/country_API_exam/assets/153794386/48e75ee1-1c92-4678-a447-a31bca8f60ec"   height="400px"     width="200px"/>
